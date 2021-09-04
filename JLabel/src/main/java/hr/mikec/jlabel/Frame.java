@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package hr.edunova.jlabel;
+package hr.mikec.jlabel;
 
 import java.awt.Color;
 import java.awt.Font;

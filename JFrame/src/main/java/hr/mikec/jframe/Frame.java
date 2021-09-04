@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package hr.edunova.jframe;
+package hr.mikec.jframe;
 
 import java.awt.Color;
 import javax.swing.ImageIcon;
